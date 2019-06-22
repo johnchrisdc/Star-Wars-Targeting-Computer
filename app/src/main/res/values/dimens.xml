@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="star_wars_font_size">40px</dimen>
+    <dimen name="star_wars_date_font_size">15px</dimen>
+
+    <dimen name="star_wars_time_top">86px</dimen>
+    <dimen name="star_wars_time_hour_left">149px</dimen>
+    <dimen name="star_wars_time_seconds_top">83px</dimen>
+    <dimen name="star_wars_time_second_left">160px</dimen>
+    <dimen name="star_wars_time_minutes_left">170px</dimen>
+
+    <dimen name="star_wars_time_top_slpt">86px</dimen>
+    <dimen name="star_wars_time_seconds_top_slpt">83px</dimen>
+    <dimen name="star_wars_time_hour_left_slpt">49px</dimen>
+    <dimen name="star_wars_time_second_left_slpt">160px</dimen>
+    <dimen name="star_wars_time_minutes_left_slpt">138px</dimen>
+
+    <dimen name="star_wars_date_top">107px</dimen>
+    <dimen name="star_wars_date_left">160px</dimen>
+
+    <dimen name="star_wars_widgets_font">13px</dimen>
+
+    <dimen name="star_wars_battery_top">164px</dimen>
+    <dimen name="star_wars_battery_left">271px</dimen>
+
+    <dimen name="star_wars_total_distance_font">16px</dimen>
+    <dimen name="star_wars_total_distance_top">266px</dimen>
+    <dimen name="star_wars_total_distance_left">160px</dimen>
+
+    <dimen name="star_wars_today_distance_font">20px</dimen>
+    <dimen name="star_wars_today_distance_top">43px</dimen>
+    <dimen name="star_wars_today_distance_left">161px</dimen>
+
+    <dimen name="star_wars_steps_font">17px</dimen>
+    <dimen name="star_wars_steps_top">43px</dimen>
+    <dimen name="star_wars_steps_left">161px</dimen>
+</resources>
